@@ -1,10 +1,9 @@
-Copyright 2025 IdiotStudios
+Copyright 2025 Idiot Studios
 
-Permission is hereby granted, free of charge, to use and copy the software, provided that the above copyright notice and this permission notice are included in all copies or substantial portions of the software.
+Permission is hereby granted, free of charge, to use, copy, modify, merge, publish, distribute, and sublicense copies of the software, and to permit others to do so, under the following conditions:
 
-However, the software may not be:
-1. Modified or adapted in any way.
-2. Redistributed, sublicensed, or sold.
-3. Used to create derivative works or integrated into other software or projects.
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
+2. The credits to Idiot Studios must be preserved in all copies or substantial portions of the software.
+3. The software may **not** be sold, but it may be used for commercial purposes (e.g., incorporated into commercial projects or used in paid services).
 
-The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall Idiot Studios be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
